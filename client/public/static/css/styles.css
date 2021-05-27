@@ -1,0 +1,29 @@
+#nprogress .bar{
+    height: 6px !important;
+    background: rgb(209, 207, 70);
+}
+.nav a:hover{
+    border-radius: 0px;
+}
+.nav{
+height: 100px;
+}
+#logo{
+    height: 80px;
+}
+#navlist{
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10px;
+    
+}
+#navtext{
+    margin-top: 20px;
+}
+#navtexthome{
+    margin-left: 10px;
+    margin-top: 20px;
+}
+#registerbtn{
+    width:  180px;
+}

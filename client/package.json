@@ -1,0 +1,30 @@
+{
+  "name": "react-node-aws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "aws-sdk": "^2.916.0",
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "bootstrap": "^5.0.1",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express-jwt": "^6.0.0",
+    "express-validator": "^6.11.1",
+    "jsonwebtoken": "^8.5.1",
+    "next": "^10.2.3",
+    "nprogress": "^0.2.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
