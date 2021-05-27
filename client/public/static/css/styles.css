@@ -3,7 +3,7 @@
     background: rgb(209, 207, 70);
 }
 .nav a:hover{
-    border-radius: 0px;
+    border-radius: 8px;
 }
 .nav{
 height: 100px;
@@ -26,4 +26,9 @@ height: 100px;
 }
 #registerbtn{
     width:  180px;
+}
+#navtextlogin{
+    margin-top: 20px;
+    float: right;
+    margin-left: 540px;
 }
