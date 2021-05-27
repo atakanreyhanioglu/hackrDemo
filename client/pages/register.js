@@ -40,7 +40,7 @@ const Register = () => {
       <div className="form-group">
         <input value={name}
         onChange={handleChange('name')} type="text" className="form-control" placeholder="Type your name" />
-        <br />
+        
       
       </div>
       <div className="form-group">
@@ -49,7 +49,7 @@ const Register = () => {
           className="form-control"
           placeholder="Type your email"
         />
-        <br />
+       
       </div>
       <div className="form-group">
         <input value={password} onChange={handleChange('password')}
@@ -57,7 +57,7 @@ const Register = () => {
           className="form-control"
           placeholder="Type your password"
         />
-        <br />
+        
       </div>
       <div className="form-group">
         <button id = "registerbtn"className="btn btn-warning"><b>{buttonText}</b></button>
